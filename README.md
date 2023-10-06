@@ -5,13 +5,14 @@ Task Manager is a robust web application that helps users remember and organize 
 
 ## Screeshots:-
 
-![1](https://github.com/AK9654AK/My-Advanced-To-Do-List/assets/82321076/21ae191e-7d19-4433-b302-8f0f6ea2f63e)
+![1](https://github.com/AK9654AK/My-Advanced-To-Do/assets/82321076/b2b84c86-7a41-46b6-8052-f5fa51c04d1e)
 
-![2](https://github.com/AK9654AK/My-Advanced-To-Do-List/assets/82321076/5cc3e5ad-5267-477c-a6dc-34af6af8c8ae)
+![2](https://github.com/AK9654AK/My-Advanced-To-Do/assets/82321076/4ed2c9df-6755-41a9-8687-61a04a446528)
 
-![3](https://github.com/AK9654AK/My-Advanced-To-Do-List/assets/82321076/ecb31ef8-33b9-41b6-932d-890cf0619fab)
+![3](https://github.com/AK9654AK/My-Advanced-To-Do/assets/82321076/8dd914e4-49b7-4f91-b9e4-bb62e2e4ad57)
 
-![4](https://github.com/AK9654AK/My-Advanced-To-Do-List/assets/82321076/35476823-cca4-437a-8c4b-a4ab2c599739)
+![4](https://github.com/AK9654AK/My-Advanced-To-Do/assets/82321076/a889c1d5-0bf8-403e-aad6-8f4acb44758e)
+
 
 ## Installation
 To run this project locally, follow these steps:
