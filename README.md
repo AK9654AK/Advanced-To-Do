@@ -1,25 +1,51 @@
-# React Todo App
+# Advanced To-Do List
 
-## Overview:
+Task Manager is a robust web application that helps users remember and organize their tasks efficiently. This project empowers users to add, update, and delete tasks while providing sorting capabilities to easily manage their to-do lists. With Task Manager, you can keep track of your tasks and sort them based on priorities, due dates, or any other criteria that suits your needs
 
-My next project, this is a simple Todo App written in React. The application offers the ability to add tasks, edit them, delete them and list completed tasks. In addition, Todo App allows users to sort tasks by alphabetical order, priority and most recent. The app also allows you to download your task list and import it later, so you don't lose your existing task list. For users' convenience, the site is available in two available themes: light and dark.
 
-I used the following technologies to write the application:
- - React
- - React Hooks
- - SCSS
- - FontAwesome
+## Screeshots:-
 
-## Live Demo:
+![1](https://github.com/AK9654AK/My-Advanced-To-Do-List/assets/82321076/21ae191e-7d19-4433-b302-8f0f6ea2f63e)
 
-The demo is available at: https://piotr-kuras97.github.io/react-todo-app/
+![2](https://github.com/AK9654AK/My-Advanced-To-Do-List/assets/82321076/5cc3e5ad-5267-477c-a6dc-34af6af8c8ae)
 
-## Updates:
+![3](https://github.com/AK9654AK/My-Advanced-To-Do-List/assets/82321076/ecb31ef8-33b9-41b6-932d-890cf0619fab)
 
- * 11.07.2033 - LocalStorage added.
+![4](https://github.com/AK9654AK/My-Advanced-To-Do-List/assets/82321076/35476823-cca4-437a-8c4b-a4ab2c599739)
 
-## Instalation:
+## Installation
+To run this project locally, follow these steps:
 
-1. Clone Git repository https://github.com/Piotr-Kuras97/react-todo-app.git
-2. `npm i` or `yarn`- to download all dependencies
-3. `npm start` or `yarn start` - to start dev server
+Clone the repository:
+
+```git clone https://github.com/AK9654692273/Advanced-ToDo-Tracker```
+
+Navigate to the project directory:
+
+```cd task-manager```
+
+Open index.html in your preferred web browser.
+
+
+## Usage
+
+Open the web application in your browser.
+
+Click the "+" button to add a new task.
+
+Fill in the task details, including task name, priority, and due date.
+
+Click "Save" to add the task to your to-do list.
+
+Use the sorting options to arrange tasks based on your preferences.
+
+To edit or delete a task, click on the task item and use the respective options.
+
+Set due dates for tasks to receive reminders when they are approaching.
+
+You can also use dark theme according to your convenience. 
+
+## Contributing
+
+Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to fork the repository and create a pull request. For major changes, please open an issue first to discuss the proposed changes.
+
